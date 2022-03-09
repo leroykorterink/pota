@@ -1,0 +1,1 @@
+import"./vendor.6bed5e0d.js";/* empty css                */
